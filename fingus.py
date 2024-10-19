@@ -8,4 +8,4 @@ if x == "yes!":
   print("thats great news")
   print("heres your free point")
   points = 1
-print("your points are", points)_
+print("your points are", points)
